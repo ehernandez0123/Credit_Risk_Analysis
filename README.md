@@ -56,5 +56,6 @@ The following results for the balanced accuracy, precision, and recall, were obt
 - Precision: Is low for High-risk loans and is high for Low-risk loans
 - Recall: High / Low = .90 / .94
 
+## Summary
 
-
+As per the above results we can see that the Easy Ensemble AdaBoost Classifier is the best model to work with. If we take a look at it's balanced accuracy results it was the one that was the closest to 1 with a result of 0.94. The precision for all of the models were fairly similar, but when it came to the recall score the Easy Ensemble AdaBoost Classifier was the only one that came close to 1.
